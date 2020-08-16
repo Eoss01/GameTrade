@@ -1,0 +1,46 @@
+Project I / Project II / Project
+Course Name: Project I / Project II / Project
+
+Code: CSIS3003 / CSIS3103 / CSIS3044
+
+Credit Hours: 3 / 3 / 4
+
+Prerequisite: System Analysis and Design(CSIS2013), Database System Design (CSIS2023), Fundamental of Software Design & Development (PROG1003) /  Introduction to Programming (PROG1013)
+
+Objectives
+
+The aim is to help students to produce and complete the actual coding of the system by using the knowledge they acquired in the previous semesters. 
+
+Learning Outcome
+
+Upon successful completion of this subject, the students are able to:
+
+Review the system
+Plan a project schedule
+Analyze the system requirement
+Design and construct a system
+Synopsis
+
+Help students to produce and complete the actual coding of the system by using the knowledge they acquired in the previous semesters. This knowledge includes the feasibility study, planning and scheduling, system analysis and design, data dictionary, data flow diagram, entity relationship diagram, and other proper skills, techniques and documentation of a functionary complete system.
+
+Assessment scheme
+
+Project I:
+
+Project Planning and Scheduling - 10%                                                  
+System Analysis and Design Skill - 10%                                               
+Coding and Implementation - 50%                                                              
+Report and Documentation - 20% 
+Presentation Skill - 10%
+Project II:
+
+Coding and Implementation - 60%                                                              
+Report and Documentation - 20% 
+Presentation and Practical Skills - 20%
+ Project :                                                                                             
+
+Project Planning and Scheduling - 10%                                                  
+System Analysis and Design Skill - 10%                                               
+Coding and Implementation - 50%                                                          
+Report and Documentation - 20%   
+Presentation Skill - 10%

@@ -1,0 +1,154 @@
+body{
+  padding:0;
+  margin:0;
+}
+
+.vid-container{
+  position:relative;
+  height:100vh;
+  overflow:hidden;
+  background-image: url("background.jpg");
+  background-size: 100% 110%;
+}
+.bgvid.back {
+  position: fixed; right: 0; bottom: 0;
+  min-width: 100%; min-height: 100%;
+  width: auto; height: auto; z-index: -100;
+}
+.inner {
+  position: absolute;
+}
+.inner-container{
+  width:400px;
+  height:650px;
+  position:absolute;
+  top:calc(50vh - 300px);
+  left:calc(50vw - 200px);
+  overflow:hidden;
+}
+.bgvid.inner{
+  top:calc(-50vh + 200px);
+  left:calc(-50vw + 200px);
+  height: 400px;
+  filter:blur(10px);
+}
+.box{
+  position:absolute;
+  height:100%;
+  width:100%;
+  font: small-caps bold 24px/1 sans-serif;
+  color: white;
+  background:rgba(0,0,0,0.13);
+  padding:30px 0px;
+}
+.box h1{
+  text-align:center;
+  margin:30px 0;
+  font: small-caps bold 24px/1 sans-serif;
+  font-feature-settings: "smcp", "zero";
+  font-size:46px;
+  color: white;
+}
+.box input{
+  display:block;
+  width:300px;
+  margin:20px auto;
+  padding:15px;
+  background:rgba(0,0,0,0.2);
+  color:#fff;
+  border:0;
+}
+.box input:focus,.box input:active,.box button:focus,.box button:active{
+  outline:none;
+}
+.box button{
+  background:#742ECC;
+  border:0;
+  color:#fff;
+  padding:10px;
+  font: small-caps bold 30px/1 sans-serif;
+  font-feature-settings: "smcp", "zero";
+  width:330px;
+  margin:20px auto;
+  display:block;
+  cursor:pointer;
+}
+.box button:active{
+  background:#27ae60;
+}
+.box p{
+  font-size:14px;
+  text-align:center;
+}
+.box p span{
+  cursor:pointer;
+  color:#666;
+}
+
+.log{
+  position:absolute;
+  height:100%;
+  width:100%;
+  float: right;
+  color: black;
+  background:rgba(0,0,0,0.13);
+  padding:30px 0px;
+}
+.log h1{
+  text-align:center;
+  margin:30px 0;
+  font-size:30px;
+}
+.log input{
+  display:block;
+  width:300px;
+  margin:20px auto;
+  padding:15px;
+  background:rgba(0,0,0,0.2);
+  color:#fff;
+  border:0;
+}
+.log input:focus,.box input:active,.box button:focus,.box button:active{
+  outline:none;
+}
+.log button{
+  background:#742ECC;
+  border:0;
+  color:#fff;
+  padding:10px;
+  font-size:20px;
+  width:330px;
+  margin:20px auto;
+  display:block;
+  cursor:pointer;
+}
+.log button:active{
+  background:#27ae60;
+}
+.log p{
+  font-size:14px;
+  text-align:center;
+}
+.log p span{
+  cursor:pointer;
+  color:#666;
+}
+
+.panel-info {
+  border-color: black;
+}
+.panel-info > .panel-heading {
+  color: white;
+  background-color: #d9edf7;
+  border-color: black;
+}
+.panel-info > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: black;
+}
+.panel-info > .panel-heading .badge {
+  color: white;
+  background-color: black;
+}
+.panel-info > .panel-footer + .panel-collapse > .panel-body {
+  border-bottom-color: black;
+}

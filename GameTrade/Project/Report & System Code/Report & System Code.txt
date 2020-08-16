@@ -1,0 +1,71 @@
+Project Initiation
+
+Deliverables
+
+Project Topic or Title
+Rationale for project choice
+Background research
+Literature review
+An outline of the scope of the intended system
+A financial justification for project
+A list of team members, together with their hand phone number, email and a copy of each members' CV.
+An outline of the duties of each member for each stage.
+A plan of your team's projected work for stages 2 and 3.
+A plan of how your team is intending to monitor and control stages 2 and 3.
+Minutes of all team meetings held during this stage.  
+Project Plan                                             
+ 
+
+Specific Requirements Stage 2.
+
+Investigation & Analysis.
+
+Deliverables
+
+Data Flow Diagram (Use UML Use Case), containing all  processes, defining the boundaries of the application.
+An ERM containing an appropriate number of entities.
+A description of, and rationale for, the choice of prototype/system processes, supported by appropriate (Use Case Description).
+A set of appropriate Use Class, Activity and Sequence Diagrams for the entities affected by the process to be prototyped.
+Evidence of monitoring and control of actual work against planned work. 
+                      
+
+Specific Requirements Stage 3.
+
+Requirements System, System and Final Report
+
+ Deliverables
+
+A description of the rationale for your database tables and indexes (2 - 3 sentences for each table and index)
+Prototype demonstration. The prototype should consist of:
+All databases, tables, forms, queries and reports are developed to a reasonable level of functionality (to be agreed with your lecturer). 
+The prototype/system should be as complete as possible.
+A prototype/system user guide.  
+A presentation, to your lecturer, of your findings after reviewing the result of the prototype / system demonstration.  
+Evidence of monitoring and control of actual work against planned work.
+ 
+
+Due Date (Project I):
+
+Stage 1 (Report) : 26th April 2018
+
+Stage 2 (Report): 25th May 2018
+
+Stage 3 (Final Report & Coding) : 29th June 2018
+
+Presentation : 
+
+Due Date (Project II):
+
+System, Final Report and Technical Report: 
+
+Presentation: 
+
+Due Date (Project):
+
+Project Initiation: 
+
+Investigation and Analysis: 
+
+System, Final Report and Technical Report: 
+
+Presentation: 
